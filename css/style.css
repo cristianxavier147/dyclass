@@ -9052,8 +9052,14 @@ button.bg-dark:focus {
   .pr-xl-5,
   .px-xl-5 {
     padding-right: 3rem !important;
-    width: 135%;
+    /* width: 135%; */
   }
+
+  .carousel{
+    /* width: 134%; */
+    width: 1600px;
+  }
+
   .pb-xl-5,
   .py-xl-5 {
     padding-bottom: 3rem !important;
